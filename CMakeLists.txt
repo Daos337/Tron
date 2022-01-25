@@ -14,5 +14,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
 
 
 add_executable("${PROJECT_NAME}" laba.6.cpp 
-
+				inc/function.hpp
+				src/function.cpp
 )
